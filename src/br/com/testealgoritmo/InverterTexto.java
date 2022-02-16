@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class InverterTexto {
 
-    public static void main(String[] args) {
+    public void Solucao() {
+        //Inverter um texto digitado pelo usuário/
         Scanner sc = new Scanner(System.in);
         System.out.println("Digite um texto: ");
         String texto = sc.nextLine();
