@@ -1,6 +1,6 @@
-===== EXERCICIOS DE ALGORITMO =====
+<h1> EXERCICIOS DE ALGORITMO </h1>
 
-1- Dada as idades I, J, K, X, Y. Faça um algoritmo para calcular a média das idades.
+1- Dada as idades I, J, K, X, Y. Faça um algoritmo para calcular a média das idades.  
 2- Dada a distância A e o combustível gasto B, faça um algoritmo para calcular o consumo 
 médio.
 3 - Dados três números (a, b, c), faça um algoritmo para mostrar o menor número.
