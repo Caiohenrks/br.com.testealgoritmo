@@ -1,5 +1,5 @@
 
-package testealgoritmo;
+package br.com.testealgoritmo;
 
 import java.util.Scanner;
 

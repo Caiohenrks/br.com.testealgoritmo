@@ -1,4 +1,4 @@
-package testealgoritmo;
+package br.com.testealgoritmo;
 
 import java.util.ArrayList;
 import java.util.List;

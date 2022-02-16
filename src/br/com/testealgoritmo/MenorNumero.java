@@ -1,4 +1,4 @@
-package testealgoritmo;
+package br.com.testealgoritmo;
 
 public class MenorNumero {
 

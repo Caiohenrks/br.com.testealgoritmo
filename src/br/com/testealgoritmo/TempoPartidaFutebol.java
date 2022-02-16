@@ -1,4 +1,4 @@
-package testealgoritmo;
+package br.com.testealgoritmo;
 
 import java.time.LocalTime;
 import java.time.temporal.ChronoUnit;
