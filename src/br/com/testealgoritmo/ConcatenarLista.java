@@ -14,13 +14,13 @@ public class ConcatenarLista {
         System.out.println("Lista 1: " + a);
         List b = Arrays.asList(1, 2, 5, 8);
         System.out.println("Lista 2: " + b);
-        
-        ArrayList r = new ArrayList(a.size()+b.size());
-        
+
+        ArrayList r = new ArrayList(a.size() + b.size());
+
         r.addAll(a);
         r.addAll(b);
-        
-        System.out.println("Concatenado: "+r);
-        
+
+        System.out.println("Concatenado: " + r);
+
     }
 }

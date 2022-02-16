@@ -17,12 +17,12 @@ public class ImprimirMatriz {
 
         int matriz[][];
         matriz = new int[linha][coluna];
-        
-        for(int li = 0;li < matriz.length;li++){
-            for(int co = 0;co<matriz[0].length;co++){
-                System.out.print(matriz[li][co]+ " ");
+
+        for (int li = 0; li < matriz.length; li++) {
+            for (int co = 0; co < matriz[0].length; co++) {
+                System.out.print(matriz[li][co] + " ");
             }
-                System.out.println("");
+            System.out.println("");
         }
     }
 }

@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class GerarTabuada {
 
-    public void Solucao(){
+    public void Solucao() {
         //Faça um algoritmo que receba um número e retorne a tabuada desse número.
         Scanner sc = new Scanner(System.in);
         System.out.println("Digite um número: ");

@@ -12,10 +12,10 @@ public class VerificarNumeroMultiplo {
         int valor1 = sc.nextInt();
         System.out.println("Digite outro valor:");
         int valor2 = sc.nextInt();
-        
-        if(valor1%valor2 == 0){
+
+        if (valor1 % valor2 == 0) {
             System.out.println("O valor é multiplo");
-        }else{
+        } else {
             System.out.println("O valor não é multiplo");
         }
     }

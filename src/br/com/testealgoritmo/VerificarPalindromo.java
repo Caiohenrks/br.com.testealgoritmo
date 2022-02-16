@@ -4,8 +4,12 @@ import java.util.Scanner;
 
 public class VerificarPalindromo {
 
-    public static void main(String[] args) {
-        //Inverter um texto digitado pelo usuário/
+    public void Solucao() {
+        /*Faça um algoritmo que recebe uma palavra e retorne se a palavra é palíndromo. 
+        (Palavra que se pode ler, indiferentemente, da esquerda para direita ou vice-versa. Ex: osso, 
+        Ana e etc).
+         */
+
         Scanner sc = new Scanner(System.in);
         System.out.println("Digite um texto: ");
         String texto = sc.nextLine().toLowerCase();
